@@ -1,7 +1,7 @@
 ## klayjs-wrapper
 
 <hr/>
-klayjs wrapper for usage in cubbles.
+Klayjs wrapper for usage in cubbles.
 
 ***
 

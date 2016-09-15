@@ -10,4 +10,4 @@ Origin library:
     with an inherent direction and ports (explicit attachment points on a node's border). 
     It is based on the ideas originally introduced by Sugiyama et al.
      
- See: [klayjs](https://github.com/OpenKieler/klayjs)
+See: [klayjs](https://github.com/OpenKieler/klayjs)
